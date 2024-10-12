@@ -1,0 +1,58 @@
+{
+    "F.Y. B. TECH, SEMESTER I (PATTERN 2023-NEP) AY 2023-24": {
+        "Q1": "What is the course code for the Basic Science Course (Linear Algebra/Calculus and Ordinary Differential Equations)?",
+        "A1": "BS10231/BS10232",
+        "Q2": "What is the total number of credits for the Basic Science Course (Linear Algebra/Calculus and Ordinary Differential Equations)?",
+        "A2": "4",
+        "Q3": "What is the teaching scheme for the Basic Science Course (Environmental Science/Physics)?",
+        "A3": "2 Theory, 2 Practical",
+        "Q4": "How many credits does the Vocational Skill Development Course carry?",
+        "A4": "2",
+        "Q5": "What is the total number of credits for Semester I?",
+        "A5": "21"
+    },
+    "F.Y. B. TECH, SEMESTER II (PATTERN 2023-NEP) AY 2023-24": {
+        "Q6": "What is the course title for BS10231/BS10232?",
+        "A6": "Basic Science Course (Linear Algebra/Calculus and Ordinary Differential Equations)",
+        "Q7": "What is the total number of credits for Semester II?",
+        "A7": "21"
+    },
+    "S.Y. B. TECH, SEMESTER III (PATTERN 2020)": {
+        "Q8": "What is the teaching scheme for the Basic Science Course?",
+        "A8": "3 Theory, 1 Tutorial",
+        "Q9": "How many credits does the Professional Core course carry?",
+        "A9": "4",
+        "Q10": "What is the total number of credits for Semester III?",
+        "A10": "24"
+    },
+    "S.Y. B. TECH, SEMESTER IV (PATTERN 2020)": {
+        "Q11": "How many total credits are there for Semester IV?",
+        "A11": "24"
+    },
+    "T.Y. B. TECH (COMMON TO ALL PROGRAMS), SEMESTER V (PATTERN 2020) AY 2023-24": {
+        "Q12": "What is the examination scheme for the Project - I course?",
+        "A12": "25",
+        "Q13": "How many total credits does Semester V carry?",
+        "A13": "23"
+    },
+    "T.Y. B. TECH (COMMON TO ALL PROGRAMS), SEMESTER VI (PATTERN 2020) AY 2023-24": {
+        "Q14": "What is the total number of credits for Semester VI?",
+        "A14": "21"
+    },
+    "Final Year B. TECH (COMMON TO ALL PROGRAMS), SEMESTER VII (PATTERN 2020)": {
+        "Q15": "What is the total number of credits for Module-I in Semester VII?",
+        "A15": "20",
+        "Q16": "What is the total number of credits for the Major Project?",
+        "A16": "10"
+    },
+    "Final Year B. TECH (COMMON TO ALL PROGRAMS), SEMESTER VIII (PATTERN 2020)": {
+        "Q17": "How many total credits are there for Module-III in Semester VIII?",
+        "A17": "21"
+    },
+    "General Questions": {
+        "Q18": "What is the role of the Dean Academics?",
+        "A18": "The Dean Academics oversees the academic structure and curriculum of the institute.",
+        "Q19": "Who is the director of the Bansilal Ramnath Agarwal Charitable Trust\u2019s Vishwakarma Institute of Information Technology?",
+        "A19": "The name of the director is not specified in the provided text."
+    }
+}

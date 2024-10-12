@@ -1,0 +1,145 @@
+[
+    {
+        "question": "What is the vision of the Department of Computer Engineering at VIIT?",
+        "answer": "Excellence in the field of Computer Engineering enabling holistic development for rendering services to the industry and society."
+    },
+    {
+        "question": "What is the mission of the Department?",
+        "answer": "To facilitate meaningful collaborations between our students, the industry, and society through internships, industry partnerships, and community engagement projects. To provide a comprehensive technical education in the field of Computer Engineering through rigorous academic programs and practical experiences. To create an environment that nurtures students' intellectual, emotional, and ethical growth through a range of extracurricular activities, mentorship opportunities, and character-building initiatives."
+    },
+    {
+        "question": "When was the Department of Computer Engineering established?",
+        "answer": "The Department of Computer Engineering at VIIT was established in 2002."
+    },
+    {
+        "question": "What programs does the Department of Computer Engineering offer?",
+        "answer": "The Department offers a four-year full-time undergraduate (B.Tech.) degree program, a postgraduate program (M.Tech), and a Ph.D. program."
+    },
+    {
+        "question": "What is the current intake for the B.Tech. Computer Engineering program?",
+        "answer": "The current intake for the B.Tech. Computer Engineering program is 240 students."
+    },
+    {
+        "question": "What is the current intake for the M.Tech. Computer Engineering program?",
+        "answer": "The current intake for the M.Tech. Computer Engineering program is 6 students."
+    },
+    {
+        "question": "How many Ph.D. guides are available in the Computer Engineering Department?",
+        "answer": "There are 13 Ph.D. guides available in the Computer Engineering Department."
+    },
+    {
+        "question": "What are the key highlights of the Computer Engineering Department?",
+        "answer": "The Department has received NBA accreditation for three years up to 2025 in Tier 1, with excellent placements (above 90%) and an average package of Rs. 8.5 Lakhs/annum. There are 618 placement offers from 200+ companies in the past 5 years, 7 entrepreneurs in the past three years, and a strong collaboration with industries and research institutes."
+    },
+    {
+        "question": "How many patents has the Department of Computer Engineering secured?",
+        "answer": "The Department has secured 17 patents granted, 31 patents published, and 13 copyrights registered."
+    },
+    {
+        "question": "What is the total consultancy and sponsored project cost for the Department?",
+        "answer": "The total consultancy and sponsored project cost for the Department is Rs. 98,22,700."
+    },
+    {
+        "question": "What are the Program Educational Objectives (PEOs) of the Department?",
+        "answer": "The PEOs are to equip students with sound knowledge of mathematics, science, and technology to solve complex engineering problems, understand and apply fundamentals of computer engineering, deliver social and professional responsibilities ethically, and develop communication, presentation, and entrepreneurial skills."
+    },
+    {
+        "question": "What is the student internship success rate in the Computer Engineering Department?",
+        "answer": "The student internship success rate has been 100% in the last 3 years, with over 500 internship offers from 300+ companies."
+    },
+    {
+        "question": "Who is the head of the Department of Computer Engineering?",
+        "answer": "Dr. Sachin R. Sakhare is the Professor and Head of the Department of Computer Engineering."
+    },
+    {
+        "question": "What is the total number of publications in the Department?",
+        "answer": "The total number of publications in the Department is 365."
+    },
+    {
+        "question": "What is the nature of the B.Tech. Computer Engineering program?",
+        "answer": "The B.Tech. Computer Engineering program is a full-time program with a duration of 4 years."
+    },
+    {
+        "question": "What are the Program Specific Outcomes (PSOs) for the Computer Engineering program?",
+        "answer": "The PSOs are to use knowledge to write programs and integrate them with hardware/software products in domains like embedded systems, data science, networking, and web technology, and to participate in planning and implementing solutions for business-specific requirements."
+    },
+        {
+            "question": "Who is the Professor & Head of the Computer Engineering Department?",
+            "answer": "Dr. Sachin R. Sakhare"
+        },
+        {
+            "question": "Who is the Assistant Professor & Associate Head of the Computer Engineering Department?",
+            "answer": "Dr. Manisha P. Mali"
+        },
+        {
+            "question": "Name a Professor in the Computer Engineering Department.",
+            "answer": "Dr. Mandar Karyakarte"
+        },
+        {
+            "question": "Who is an Associate Professor in the Computer Engineering Department?",
+            "answer": "Dr. Kirti H. Wanjale"
+        },
+        {
+            "question": "What is the total number of labs connected to the centralized server?",
+            "answer": "All labs are connected to a centralized server."
+        },
+        {
+            "question": "What is the location of the IOT Lab?",
+            "answer": "B105"
+        },
+        {
+            "question": "How many Operating System Labs are there?",
+            "answer": "There is one Operating System Lab located at B205."
+        },
+        {
+            "question": "How many staff are involved as Faculty as a Reviewer for academic publications?",
+            "answer": "11"
+        },
+        {
+            "question": "How many Faculty Awards have been received?",
+            "answer": "13"
+        },
+        {
+            "question": "What are some clubs in the Computer Department?",
+            "answer": "CSI, ACM, Coding Forum, IoT, Cybercell, ML Forum"
+        },
+        {
+            "question": "What was the total number of final year students in the academic year 2022-23?",
+            "answer": "245"
+        },
+        {
+            "question": "How many students were placed in the academic year 2022-23?",
+            "answer": "183"
+        },
+        {
+            "question": "How many students admitted to higher studies in the academic year 2022-23?",
+            "answer": "19"
+        },
+        {
+            "question": "How many students turned entrepreneurs in engineering/technology in the academic year 2022-23?",
+            "answer": "0"
+        },
+        {
+            "question": "What was the placement index in the academic year 2022-23?",
+            "answer": "83%"
+        },
+        {
+            "question": "What is the lab name located at B307?",
+            "answer": "CISCO Networking Lab"
+        },
+        {
+            "question": "How many Data Structure Labs are there?",
+            "answer": "Two Data Structure Labs located at B206 and B207."
+        },
+        {
+            "question": "What is the location of the PG Lab?",
+            "answer": "D205"
+        }, {
+            "question": "What are the subjects in Semester 1 of the Computer Department?",
+            "answer": "The subjects are: Computer Networks (CN), Design and Analysis of Algorithms (DAA), Data Structures and Machine Learning (DSML), Software Engineering and Project Management (SEPM), and Intellectual Property Rights (IPR)."
+        },
+        {
+            "question": "What are the electives available in Semester 1 of the Computer Department?",
+            "answer": "The electives available are: Artificial Intelligence (AI), Internet of Things (IoT), Mainframe Computing, Business Intelligence and Data Analytics (BIDA), and Computer Graphics."
+        }
+]
